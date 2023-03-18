@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 100%;
+}
+body {
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
+}
+a {
+    text-decoration: none;
+    color: unset;
+}
+ul {
+    list-style: none;
+}
+.container {
+    max-width: 1660px;
+    height: 100%;
+    margin: auto;
+}

@@ -1,0 +1,13 @@
+.sidebar {
+    background-color: #191718;
+    height: 100vh;
+    &__list {
+        li {
+            font-size: 16px;
+            font-weight: 700;
+            color: #AAAAAA;
+            border-bottom: 1px solid #5C5C5C;
+            padding: 10px;
+        }
+    }
+}
